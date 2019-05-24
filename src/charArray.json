@@ -1,0 +1,74 @@
+[
+    {
+        "key": 1,
+        "clicked": false,
+        "name": "Arya",
+        "image": "../images/arya.jpeg"
+    },
+    {
+        "key": 2,
+        "clicked": false,
+        "name": "Bran",
+        "image": "../images/bran.jpeg"
+    },
+    {
+        "key": 3,
+        "clicked": false,
+        "name": "Cersei",
+        "image": "../images/cersei.jpeg"
+    },
+    {
+        "key": 4,
+        "clicked": false,
+        "name": "Daenerys",
+        "image": "../images/daenerys.jpeg"
+    },
+    {
+        "key": 5,
+        "clicked": false,
+        "name": "Jaime",
+        "image": "../images/jaime.jpeg"
+    },
+    {
+        "key": 6,
+        "clicked": false,
+        "name": "Jon",
+        "image": "../images/jon.jpeg"
+    },
+    {
+        "key": 7,
+        "clicked": false,
+        "name": "Khal",
+        "image": "../images/khal.jpeg"
+    },
+    {
+        "key": 8,
+        "clicked": false,
+        "name": "Robb",
+        "image": "../images/robb.jpeg"
+    },
+    {
+        "key": 9,
+        "clicked": false,
+        "name": "Sandor",
+        "image": "../images/sandor.jpeg"
+    },
+    {
+        "key": 10,
+        "clicked": false,
+        "name": "Sansa",
+        "image": "../images/sansa.jpeg"
+    },
+    {
+        "key": 11,
+        "clicked": false,
+        "name": "Theon",
+        "image": "../images/theon.jpeg"
+    },
+    {
+        "key": 12,
+        "clicked": false,
+        "name": "Tyrion",
+        "image": "../images/tyrion.jpeg"
+    }
+]
